@@ -27,4 +27,4 @@ This project involves the collection and description of a dataset of super bike 
 
 ## Fine-Tuning
 
-- The pre-trained model was fine-tuned on the specific dataset of super bike images. Fine-tuning involves training the model on the data to adapt it to the task of generating descriptions tailored to the unique characteristics of the super bike images.
+- The pre-trained model was fine-tuned on the specific dataset of super bike images. Fine-tuning involves training the model on the data to adapt it to the task of generating images to the tailored description provided.
